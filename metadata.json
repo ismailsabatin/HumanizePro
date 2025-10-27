@@ -1,0 +1,5 @@
+{
+  "name": "HumanizePro",
+  "description": "An application to analyze and humanize AI-generated text. It detects the percentage of AI writing, rewrites text to sound more natural, and supports multiple tones and languages.",
+  "requestFramePermissions": []
+}
